@@ -1,4 +1,4 @@
-<h1> Ứng dụng giải toán Lý thuyết đồ thị </h1>
+## Ứng dụng giải toán Lý thuyết đồ thị
 - Chào mừng mọi người đã đến với Github Page của nhóm BKK000!!!
 - Đây là  trang giới thiệu về đồ án Ứng dụng giải toán Lý thuyết đồ thị gồm các thuật toán Dijkstra, Kruskal, Prim hỗ trợ các bạn sinh viên học tập hiệu quả trong môn học Toán Rời Rạc.
 - Mọi chi tiết xin liên hệ:
